@@ -1,0 +1,5 @@
+site_name: Example
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.superfences
