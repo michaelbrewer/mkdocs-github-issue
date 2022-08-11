@@ -1,4 +1,4 @@
 ```terraform
->>a
+<<a
 x
 ```
